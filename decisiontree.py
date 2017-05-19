@@ -1,3 +1,4 @@
+# Author: carlo Butelli
 from sklearn import tree
 
 #[height, weight, shoe size]
